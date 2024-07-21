@@ -105,6 +105,7 @@ git remote -v
 	origin	git@github.com/HeimdallCodeBr/positivo-pc.git (fetch)
 	origin	git@github.com/HeimdallCodeBr/positivo-pc.git (push)
 
+git push -u origin master
 
 
 git push 
